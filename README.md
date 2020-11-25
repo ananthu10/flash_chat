@@ -1,2 +1,1 @@
-# flash_chat
-chat app 
+django
